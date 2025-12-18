@@ -1,0 +1,9 @@
+# -- Docker volumes --
+db-data/
+
+# -- Enviroment variables --
+.env
+
+
+# -- Logs --
+*.log
